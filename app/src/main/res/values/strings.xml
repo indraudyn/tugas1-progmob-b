@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AttendanceCounter</string>
+    <string name="enter_attendance_count">Enter attendance count</string>
+    <string name="submit">Submit</string>
+</resources>
